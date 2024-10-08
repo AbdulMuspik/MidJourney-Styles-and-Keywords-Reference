@@ -15,11 +15,6 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors_light.webp?raw=true" width = 377>
   <img alt="⭐ Sponsors" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_sponsors.webp?raw=true" width = 377>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request.webp?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request_light.webp?raw=true" width = 377>
-  <img alt="📥 Submitting Ideas and Pull Requests" src="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_pull_request.webp?raw=true" width = 377>
-</picture></a>
 <br>
 <a href="/Pages/Links.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_links.webp?raw=true" width = 377>
@@ -388,6 +383,3 @@
 </div>
 
 <hr><!--------------->
-<div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">Created By Will Wulfken</a></h6>
-</div>
